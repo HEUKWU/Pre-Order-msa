@@ -1,0 +1,5 @@
+rootProject.name = 'Pre-Order-msa'
+include 'common-service'
+include 'user-service'
+include 'product-service'
+include 'order-service'
